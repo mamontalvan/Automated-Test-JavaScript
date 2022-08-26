@@ -4,7 +4,7 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "test": "mocha --no-timeouts --parallel --reporter mochawesome --require mochawesome/register --reporter-options reportDir=/Users/maymontalvan/Documents/CAPACITACIONES/JAVASCRIPT/6-TESTING/SELENIUM-DEMO/informe-pruebas,reportFilename=resultado-ejecucion"
+        "test": "mocha --no-timeouts --parallel --reporter mochawesome --require mochawesome/register --reporter-options reportDir=/directorio-informe-tests,reportFilename=resultado-test"
     },
     "author": "",
     "license": "ISC",
