@@ -3,7 +3,7 @@ La automatización de pruebas es una técnica de pruebas donde se utilizan scrip
 
 ## Descripción:
 
-El presente proyecto trata de un demo configurado para trabajar localmente con [Selenium WebDriver](https://www.npmjs.com/package/selenium-webdriver) y Javascript integrado adicionalmente con [Mocha](https://mochajs.org/).
+El presente proyecto trata de un demo configurado para trabajar localmente con [Selenium WebDriver](https://www.npmjs.com/package/selenium-webdriver) y Javascript integrado adicionalmente con [Mocha](https://mochajs.org/) y [mochawesome](https://www.npmjs.com/package/mochawesome) para generar informes de pruebas.
 
 En el ejemplo se han automatizado 2 simples casos de pruebas para testear el aplicativo [TODO](https://lambdatest.github.io/sample-todo-app/).
 
